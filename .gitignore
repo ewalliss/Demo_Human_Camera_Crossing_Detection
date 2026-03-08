@@ -232,7 +232,6 @@ data
 original_CLIP-REID
 memory/
 specs/
-docs/
 !docs/viz/
 !docs/viz/retrieval_viz/
 !docs/viz/retrieval_viz/query_001_pid478.jpg
